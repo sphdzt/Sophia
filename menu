@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1.0"
+    script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery-min.js"> </script&gt;
+        link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"&gt;
+        link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css"&gt;
+        script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script&gt;
+          
+    <title>Tienda de Sophia</title>
+</head>
+<body>
+    <style>
+        img{
+        width: 200px;
+        height: auto;
+        }
+        table, th, td{
+            border: 1px dotted palevioletred;
+        }
+        trinth=child(even){
+            background-color: 
+        }
+    </style>
+    <div style="margin: 24px;">
+    </div>
+    <table>
+        <tr>
+            <th>Imagen</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+        </tr>
+        <tr>
+            <td><img src="fresa.jpg" alt="Desayuno"></td>
+            <td><p>Base de galleta crujiente rellena con nuestra receta especial de queso, decorado con betún de crema, fresas naturales y glase ¡Nuestra especialidad! como hecho en casa. </p></td>
+            <td>$100.00</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Imagen</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+        </tr>
+        <tr>
+            <td><img src="desayuno2.jpg" alt="Desayuno"></td>
+            <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+            <td>$90.00</td>
+        </tr>
+    </table>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="desayuno3.jpg" alt="Desayuno"></td>
+        <td><p>  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="desayuno4.jpg" alt="Desayuno"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+</table>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="desayuno5.jpg" alt="Desayuno"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="desayuno6.jpg" alt="Desayuno"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="almuerzo1.jpg" alt="Almuerzo"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="almuerzo2.jpg" alt="Almuerzo"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="almuerzo3.jpg" alt="Almuerzo"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="almuerzo4.jpg" alt="Almuerzo"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="almuerzo5.jpg" alt="Almuerzo"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Imagen</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td><img src="almuezo6.jpg" alt="Almuerzo"></td>
+        <td><p>Pan de dulce proveniente del croissant francés, cuya forma semeja un cuerno, con un delicioso cafe.  </p></td>
+        <td>$90.00</td>
+    </tr>
+</table>
+</body>
+</html>

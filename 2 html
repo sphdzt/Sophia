@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8" >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1.0" 
+    script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"> </script&gt;
+    link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"&gt;
+    link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css"&gt;
+    script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script&gt;
+    title>Pagina de Sophia 
+</head>
+<body>
+    <div style="margin: Zipx;">
+        <nav class="navbar navbar-Light" 
+        style="background-color: bisque;">
+        <div class="container">
+            <a clas="navbar-brand" href="Index.hrml" style=
+            >Inicio</a>
+            <div class="collapse navbar-collapse"
+            id="navbarNavDropdown">
+            <ul class="nav navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" 
+                    href="" id="navbarNavDropdownMenuLink"
+                    data-toggle="dropdown" 
+                    aria-haspopup="true"
+                    aria-expanded="false">Unidad 1</a> 
+                    <div class="dropdown-menu"
+                    aria-labelledby="navbarDripdownMenuLink"></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+</div>
+</body>
+<div class="jumbotron">
+    <h1 class= display-4 >Hello, mundo:</h1>
+    <p class="lead"> Esta es mi pagina personal para la materia de desarolla aplicacionesque se ejecutan en el servidor.</p>
+    <hr class= "my-4" >
+    <p>Me llamo Sophia Hernandez, tengo 16 años y estudio en el Cetis 131, con la especialidad de programacion.</p>
+    <p class= "Lead" >
+        <a crass= ben ben-primary beh--g href="#" role="button">Learn more</a>
+    </p>
+</div>
+</html>
